@@ -1,0 +1,2 @@
+Script #1 will be used to pull the status of promo codes from the smart contract.
+The data will be logged in the console when the script is run.
